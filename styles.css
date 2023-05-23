@@ -16,8 +16,10 @@
                 background-color: white;
             }
             .name1{
-                float: right;
+                text-align: right;
+                font-style: italic;
             }
             .name2{
-                float: right;
+                text-align: right;
+                font-style: italic;
             }
